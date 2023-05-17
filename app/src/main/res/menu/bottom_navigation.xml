@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="HOME"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/menu_explore"
+        android:title="PRODUCT"
+        android:icon="@drawable/ic_search"
+        />
+
+    <item
+        android:id="@+id/menu_subscription"
+        android:title="CALENDAR"
+        android:icon="@drawable/ic_calendar"
+        />
+
+    <item
+        android:id="@+id/menu_library"
+        android:title="ACCOUNT"
+        android:icon="@drawable/ic_account"
+        />
+
+
+
+
+</menu>
